@@ -12,4 +12,7 @@
 
 非原創
 [參考網站](https://developer.mozilla.org/zh-TW/docs/Learn/Server-side/Django/Tutorial_local_library_website)
-[參考網站2](https://github.com/twtrubiks/django_social_login_tutorial)
+[參考網站2](https://github.com/twtrubiks/django_social_login_tutorial)  
+
+# 最終成果
+![image](https://github.com/sleepy9487/web-final/blob/master/images/1.JPG)
